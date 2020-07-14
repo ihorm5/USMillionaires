@@ -17,6 +17,7 @@
   "dependencies": {
     "jquery": "^3.5.1",
     "jquery-mapael": "^2.2.0",
+    "parcel": "^1.12.4",
     "raphael": "^2.3.0"
   }
 }
